@@ -12,7 +12,7 @@ pip3 install pypdf
 
 ## How to use
 
-1. Put all your PDFs onto sources.
+1. Put all your PDFs onto `sources`.
 
 2. Run the `merger.py` in the main directory.
 
