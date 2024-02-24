@@ -20,4 +20,10 @@ pip3 install pypdf
 python3 merger.py
 ```
 
+If you want to use custom meta data, enter `Y` on this step:
+```bash
+Use custom meta data? (Y/N)
+```
+Please note that only `Y` is "yes", everythings else will be "no".
+
 3. Have fun!
